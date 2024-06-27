@@ -1,6 +1,6 @@
 ### Hi there, I'm Aknur! 👋
 
-- 🥵 I’m currently working on "Casting" project.
+- 🐜 I’m currently working on "Casting" project.
 - 🤓 I’m currently learning iOS, web development.
 - 👾 I'm interested in AI, ML.
 <!--
