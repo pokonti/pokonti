@@ -1,4 +1,5 @@
 ### Hi there, I'm Aknur! 👋
+Passionate about backend development and machine learning👾
 <!--
 - 🤓 I’m currently learning iOS, web development.
 - 👾 I'm interested in AI, ML.
