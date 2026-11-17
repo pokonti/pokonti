@@ -1,4 +1,4 @@
-### Hi there, I'm Aknur! 👋
+### Hi there, I'm Antay! 👋
 Passionate about backend development and machine learning👾
 <!--
 - 🤓 I’m currently learning iOS, web development.
